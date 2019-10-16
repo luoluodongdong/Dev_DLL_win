@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>myDLL</name>
+    </assembly>
+    <members>
+        <member name="T:myDLL.IOperate">
+            <summary>
+            interface of Operate
+            </summary>
+        </member>
+        <member name="M:myDLL.IOperate.getSum(System.Int32,System.Int32)">
+            <summary>
+            sum of (a,b)
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="T:myDLL.Operate1">
+            <summary>
+            operate1
+            </summary>
+        </member>
+        <member name="M:myDLL.Operate1.getSum(System.Int32,System.Int32)">
+            <summary>
+            sum of (a,b)
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

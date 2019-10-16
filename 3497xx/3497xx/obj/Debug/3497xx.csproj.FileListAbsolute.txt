@@ -1,0 +1,12 @@
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\3497xx.dll
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\3497xx.pdb
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\Ivi.Visa.dll
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\NationalInstruments.Visa.dll
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\Ivi.Visa.xml
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\NationalInstruments.Visa.xml
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\obj\Debug\3497xx.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\obj\Debug\3497xx.csproj.CopyComplete
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\obj\Debug\3497xx.dll
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\obj\Debug\3497xx.pdb
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\bin\Debug\3497xx.xml
+F:\CsharpCode\usingDLL_test\3497xx\3497xx\obj\Debug\3497xx.csprojAssemblyReference.cache

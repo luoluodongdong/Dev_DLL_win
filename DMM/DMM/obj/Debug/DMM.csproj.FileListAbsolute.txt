@@ -1,0 +1,12 @@
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\DMM.dll
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\DMM.pdb
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\Ivi.Visa.dll
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\NationalInstruments.Visa.dll
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\Ivi.Visa.xml
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\NationalInstruments.Visa.xml
+F:\CsharpCode\usingDLL_test\DMM\DMM\obj\Debug\DMM.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\DMM\DMM\obj\Debug\DMM.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\DMM\DMM\obj\Debug\DMM.csproj.CopyComplete
+F:\CsharpCode\usingDLL_test\DMM\DMM\obj\Debug\DMM.dll
+F:\CsharpCode\usingDLL_test\DMM\DMM\obj\Debug\DMM.pdb
+F:\CsharpCode\usingDLL_test\DMM\DMM\bin\Debug\DMM.xml

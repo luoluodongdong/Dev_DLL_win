@@ -1,0 +1,7 @@
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\bin\Debug\FIXTURE.xml
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\bin\Debug\FIXTURE.dll
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\bin\Debug\FIXTURE.pdb
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\obj\Debug\FIXTURE.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\obj\Debug\FIXTURE.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\obj\Debug\FIXTURE.dll
+F:\CsharpCode\usingDLL_test\FIXTURE\FIXTURE\obj\Debug\FIXTURE.pdb

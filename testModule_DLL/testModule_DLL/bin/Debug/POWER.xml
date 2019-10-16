@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>POWER</name>
+    </assembly>
+    <members>
+        <member name="T:NONATEST.Interface_POWER">
+            <summary>
+            Power interface
+            </summary>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            open func
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.Close">
+            <summary>
+            close func
+            </summary>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.WriteLine(System.String)">
+            <summary>
+            write line to device
+            </summary>
+            <param name="cmd"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.ReadLine">
+            <summary>
+            read line from device
+            </summary>
+            <returns>string value</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.Reset">
+            <summary>
+            reset func
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.GetName">
+            <summary>
+            get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.OutputVolt(System.String,System.String,System.String)">
+            <summary>
+            output volt(string channel = "1", string volt = "3.3", string curr = "0.1")
+            </summary>
+            <param name="channel"></param>
+            <param name="volt"></param>
+            <param name="curr"></param>
+            <returns>success=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST.Interface_POWER.CloseOutput">
+            <summary>
+            close output status
+            </summary>
+            <returns>success=1/fail=0</returns>
+        </member>
+        <member name="T:NONATEST._3615">
+            <summary>
+            3615 class
+            </summary>
+        </member>
+        <member name="M:NONATEST._3615.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST._3615.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            Open Function
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._3615.Close">
+            <summary>
+            Close Function
+            </summary>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._3615.WriteLine(System.String)">
+            <summary>
+            WriteLine to 34970
+            </summary>
+            <param name="cmd"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._3615.ReadLine">
+            <summary>
+            ReadLine from 34970
+            </summary>
+            <returns>read string</returns>
+        </member>
+        <member name="M:NONATEST._3615.Reset">
+            <summary>
+            Reset device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST._3615.GetName">
+            <summary>
+            Get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST._3615.OutputVolt(System.String,System.String,System.String)">
+            <summary>
+            output voltage
+            </summary>
+            <param name="channel"></param>
+            <param name="volt"></param>
+            <param name="curr"></param>
+            <returns>status=1/0</returns>
+        </member>
+        <member name="M:NONATEST._3615.CloseOutput">
+            <summary>
+            close output status
+            </summary>
+            <returns>status=1/0</returns>
+        </member>
+        <member name="M:NONATEST._3615.OpenDevice(VISAInstrument.Port.PortOperatorBase@,System.String,System.Int32,System.Int32)">
+            <summary>
+            open device func
+            </summary>
+            <param name="_portBase"></param>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="br"></param>
+            <returns>result(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._3615.GetAllDevices">
+            <summary>
+            scan devices
+            </summary>
+            <returns>devices list<string></string></returns>
+        </member>
+    </members>
+</doc>

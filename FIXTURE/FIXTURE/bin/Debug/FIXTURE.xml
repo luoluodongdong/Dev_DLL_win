@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FIXTURE</name>
+    </assembly>
+    <members>
+        <member name="T:NONATEST.Interface_FIXTURE">
+            <summary>
+            3497xx interface
+            </summary>
+        </member>
+        <member name="M:NONATEST.Interface_FIXTURE.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="E:NONATEST.Interface_FIXTURE.PortReciveData">
+            <summary>
+            port receive data event
+            </summary>
+        </member>
+        <member name="M:NONATEST.Interface_FIXTURE.Open(System.String,System.Int32,System.Int32,System.Boolean,System.Boolean)">
+            <summary>
+            open port func
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <param name="dtr"></param>
+            <param name="rts"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST.Interface_FIXTURE.Close">
+            <summary>
+            close func
+            </summary>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_FIXTURE.WriteLine(System.String)">
+            <summary>
+            write line to device
+            </summary>
+            <param name="cmd"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_FIXTURE.ReadLine">
+            <summary>
+            read line data from device
+            </summary>
+            <returns>string value</returns>
+        </member>
+        <member name="T:NONATEST._SerialDev">
+            <summary>
+            serial port class
+            </summary>
+        </member>
+        <member name="E:NONATEST._SerialDev.PortReciveData">
+            <summary>
+            port receive data event
+            </summary>
+        </member>
+        <member name="M:NONATEST._SerialDev.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST._SerialDev.Open(System.String,System.Int32,System.Int32,System.Boolean,System.Boolean)">
+            <summary>
+            open serial port
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="br"></param>
+            <param name="dtr"></param>
+            <param name="rts"></param>
+            <returns>sucess=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST._SerialDev.comm_DataReceived(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)">
+            <summary>
+            serial port receive data
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:NONATEST._SerialDev.Close">
+            <summary>
+            close func
+            </summary>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST._SerialDev.WriteLine(System.String)">
+            <summary>
+            write line to device
+            </summary>
+            <param name="cmd"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST._SerialDev.ReadLine">
+            <summary>
+            read line from device
+            </summary>
+            <returns>string value</returns>
+        </member>
+    </members>
+</doc>

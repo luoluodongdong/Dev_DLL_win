@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LOAD</name>
+    </assembly>
+    <members>
+        <member name="T:NONATEST.Interface_LOAD">
+            <summary>
+            LOAD interface
+            </summary>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            open func
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.Close">
+            <summary>
+            close func
+            </summary>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.WriteLine(System.String)">
+            <summary>
+            write line to device
+            </summary>
+            <param name="cmd"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.ReadLine">
+            <summary>
+            read line from device
+            </summary>
+            <returns>string value</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.Reset">
+            <summary>
+            reset func
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.GetName">
+            <summary>
+            get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.SetLoad(System.String,System.String,System.String)">
+            <summary>
+            set load params
+            </summary>
+            <param name="mode"></param>
+            <param name="channel"></param>
+            <param name="curr"></param>
+            <returns>success=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.MeasVolt">
+            <summary>
+            measure voltage
+            </summary>
+            <returns>value of voltage</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.LoadON">
+            <summary>
+            load ON
+            </summary>
+            <returns>sucess=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST.Interface_LOAD.LoadOFF">
+            <summary>
+            load OFF
+            </summary>
+            <returns>sucess=1/fail=0</returns>
+        </member>
+        <member name="T:NONATEST._63610">
+            <summary>
+            34970 class
+            </summary>
+        </member>
+        <member name="M:NONATEST._63610.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST._63610.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            Open Function
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._63610.Close">
+            <summary>
+            Close Function
+            </summary>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._63610.WriteLine(System.String)">
+            <summary>
+            WriteLine to 34970
+            </summary>
+            <param name="cmd"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._63610.ReadLine">
+            <summary>
+            ReadLine from 34970
+            </summary>
+            <returns>read string</returns>
+        </member>
+        <member name="M:NONATEST._63610.Reset">
+            <summary>
+            Reset device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST._63610.GetName">
+            <summary>
+            Get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST._63610.SetLoad(System.String,System.String,System.String)">
+            <summary>
+            set load params
+            </summary>
+            <param name="mode"></param>
+            <param name="channel"></param>
+            <param name="curr"></param>
+            <returns>success=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST._63610.MeasVolt">
+            <summary>
+            measure voltage
+            </summary>
+            <returns>value of voltage</returns>
+        </member>
+        <member name="M:NONATEST._63610.LoadON">
+            <summary>
+            load ON
+            </summary>
+            <returns>sucess=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST._63610.LoadOFF">
+            <summary>
+            load OFF
+            </summary>
+            <returns>sucess=1/fail=0</returns>
+        </member>
+        <member name="M:NONATEST._63610.OpenDevice(VISAInstrument.Port.PortOperatorBase@,System.String,System.Int32,System.Int32)">
+            <summary>
+            open device func
+            </summary>
+            <param name="_portBase"></param>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="br"></param>
+            <returns>result(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._63610.GetAllDevices">
+            <summary>
+            scan devices
+            </summary>
+            <returns>devices list<string></string></returns>
+        </member>
+    </members>
+</doc>

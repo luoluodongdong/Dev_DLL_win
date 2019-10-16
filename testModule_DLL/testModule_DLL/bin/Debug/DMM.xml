@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DMM</name>
+    </assembly>
+    <members>
+        <member name="T:NONATEST.Interface_DMM">
+            <summary>
+            DMM interface
+            </summary>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            open func
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.Close">
+            <summary>
+            close func
+            </summary>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.WriteLine(System.String)">
+            <summary>
+            write line to device
+            </summary>
+            <param name="cmd"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.ReadLine">
+            <summary>
+            read line from device
+            </summary>
+            <returns>string value</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.Reset">
+            <summary>
+            reset func
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.GetName">
+            <summary>
+            get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.MeasureResis(System.Int32,System.String)">
+            <summary>
+            measure resistance (cable=2/cable=4)
+            </summary>
+            <param name="cable"></param>
+            <param name="cfg"></param>
+            <returns>value of resistance</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.MeasureDiode">
+            <summary>
+            measure diode
+            </summary>
+            <returns>voltage of diode</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.MeasureCap">
+            <summary>
+            measure capacitance
+            </summary>
+            <returns>value of capacitance</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.MeasureVolt(System.String,System.String)">
+            <summary>
+            measure voltage(mode="DC"/"AC",cfg = "AUTO,DEF")
+            </summary>
+            <param name="mode"></param>
+            <param name="cfg"></param>
+            <returns>value of voltage</returns>
+        </member>
+        <member name="M:NONATEST.Interface_DMM.MeasureCurr(System.String,System.String)">
+            <summary>
+            measure current(mode = "DC"/"AC", cfg = "AUTO,DEF")
+            </summary>
+            <param name="mode"></param>
+            <param name="cfg"></param>
+            <returns>value of current</returns>
+        </member>
+        <member name="T:NONATEST._34465">
+            <summary>
+            34465 class
+            </summary>
+        </member>
+        <member name="M:NONATEST._34465.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST._34465.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            Open Function
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34465.Close">
+            <summary>
+            Close Function
+            </summary>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34465.WriteLine(System.String)">
+            <summary>
+            WriteLine to 34970
+            </summary>
+            <param name="cmd"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34465.ReadLine">
+            <summary>
+            ReadLine from 34970
+            </summary>
+            <returns>read string</returns>
+        </member>
+        <member name="M:NONATEST._34465.Reset">
+            <summary>
+            Reset device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST._34465.GetName">
+            <summary>
+            Get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST._34465.MeasureResis(System.Int32,System.String)">
+            <summary>
+            measure resistance (cable=2/cable=4)
+            </summary>
+            <param name="cable"></param>
+            <param name="cfg"></param>
+            <returns>value of resistance</returns>
+        </member>
+        <member name="M:NONATEST._34465.MeasureDiode">
+            <summary>
+            measure diode
+            </summary>
+            <returns>voltage of diode</returns>
+        </member>
+        <member name="M:NONATEST._34465.MeasureCap">
+            <summary>
+            measure capacitance
+            </summary>
+            <returns>value of capacitance</returns>
+        </member>
+        <member name="M:NONATEST._34465.MeasureVolt(System.String,System.String)">
+            <summary>
+            measure voltage(mode="DC"/"AC",cfg = "AUTO,DEF")
+            </summary>
+            <param name="mode"></param>
+            <param name="cfg"></param>
+            <returns>value of voltage</returns>
+        </member>
+        <member name="M:NONATEST._34465.MeasureCurr(System.String,System.String)">
+            <summary>
+            measure current(mode = "DC"/"AC", cfg = "AUTO,DEF")
+            </summary>
+            <param name="mode"></param>
+            <param name="cfg"></param>
+            <returns>value of current</returns>
+        </member>
+        <member name="M:NONATEST._34465.OpenDevice(VISAInstrument.Port.PortOperatorBase@,System.String,System.Int32,System.Int32)">
+            <summary>
+            open device func
+            </summary>
+            <param name="_portBase"></param>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="br"></param>
+            <returns>result(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34465.GetAllDevices">
+            <summary>
+            scan devices
+            </summary>
+            <returns>devices list<string></string></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\bin\Debug\myDLL.dll
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\bin\Debug\myDLL.pdb
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\obj\Debug\myDLL.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\obj\Debug\myDLL.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\obj\Debug\myDLL.dll
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\obj\Debug\myDLL.pdb
+F:\CsharpCode\usingDLL_test\myDLL\myDLL\bin\Debug\myDLL.xml

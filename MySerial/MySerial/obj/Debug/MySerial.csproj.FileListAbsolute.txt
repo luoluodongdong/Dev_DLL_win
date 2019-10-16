@@ -1,0 +1,6 @@
+F:\CsharpCode\usingDLL_test\MySerial\MySerial\bin\Debug\MySerial.dll
+F:\CsharpCode\usingDLL_test\MySerial\MySerial\bin\Debug\MySerial.pdb
+F:\CsharpCode\usingDLL_test\MySerial\MySerial\obj\Debug\MySerial.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\MySerial\MySerial\obj\Debug\MySerial.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\MySerial\MySerial\obj\Debug\MySerial.dll
+F:\CsharpCode\usingDLL_test\MySerial\MySerial\obj\Debug\MySerial.pdb

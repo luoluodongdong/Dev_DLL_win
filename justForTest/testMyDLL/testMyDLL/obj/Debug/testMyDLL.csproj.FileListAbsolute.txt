@@ -1,0 +1,14 @@
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\bin\Debug\testMyDLL.exe.config
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\bin\Debug\testMyDLL.exe
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\bin\Debug\testMyDLL.pdb
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\bin\Debug\myDLL.dll
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\bin\Debug\myDLL.pdb
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.Form1.resources
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.Properties.Resources.resources
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.csproj.GenerateResource.cache
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.csproj.CopyComplete
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.exe
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\obj\Debug\testMyDLL.pdb
+F:\CsharpCode\usingDLL_test\testMyDLL\testMyDLL\bin\Debug\myDLL.xml

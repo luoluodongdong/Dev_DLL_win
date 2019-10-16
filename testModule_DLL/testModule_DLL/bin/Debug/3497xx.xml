@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3497xx</name>
+    </assembly>
+    <members>
+        <member name="T:NONATEST.Interface_3497xx">
+            <summary>
+            3497xx interface
+            </summary>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            open func
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.Close">
+            <summary>
+            close func
+            </summary>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.WriteLine(System.String)">
+            <summary>
+            write line to device
+            </summary>
+            <param name="cmd"></param>
+            <returns>result</returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.ReadLine">
+            <summary>
+            read line from device
+            </summary>
+            <returns>string value</returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.Reset">
+            <summary>
+            reset func
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.GetName">
+            <summary>
+            get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST.Interface_3497xx.ReadOpenShort(System.String,System.Int32)">
+            <summary>
+            Read open/short values
+            </summary>
+            <param name="channels"></param>
+            <param name="cable"></param>
+            <returns>value of open/short</returns>
+        </member>
+        <member name="T:NONATEST._34970">
+            <summary>
+            34970 class
+            </summary>
+        </member>
+        <member name="M:NONATEST._34970.ScanDevices">
+            <summary>
+            Scan Devices
+            </summary>
+            <returns>list of devices</returns>
+        </member>
+        <member name="M:NONATEST._34970.Open(System.String,System.Int32,System.Int32)">
+            <summary>
+            Open Function
+            </summary>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="baudrate"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34970.Close">
+            <summary>
+            Close Function
+            </summary>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34970.WriteLine(System.String)">
+            <summary>
+            WriteLine to 34970
+            </summary>
+            <param name="cmd"></param>
+            <returns>bool(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34970.ReadLine">
+            <summary>
+            ReadLine from 34970
+            </summary>
+            <returns>read string</returns>
+        </member>
+        <member name="M:NONATEST._34970.Reset">
+            <summary>
+            Reset device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NONATEST._34970.GetName">
+            <summary>
+            Get name of device
+            </summary>
+            <returns>name string</returns>
+        </member>
+        <member name="M:NONATEST._34970.ReadOpenShort(System.String,System.Int32)">
+            <summary>
+            read values of open/short channels:"101:113"
+            </summary>
+            <param name="channels"></param>
+            <param name="cable"></param>
+            <returns>values of open/short</returns>
+        </member>
+        <member name="M:NONATEST._34970.OpenDevice(VISAInstrument.Port.PortOperatorBase@,System.String,System.Int32,System.Int32)">
+            <summary>
+            open device func
+            </summary>
+            <param name="_portBase"></param>
+            <param name="addr"></param>
+            <param name="timeout"></param>
+            <param name="br"></param>
+            <returns>result(success/fail)</returns>
+        </member>
+        <member name="M:NONATEST._34970.GetAllDevices">
+            <summary>
+            scan devices
+            </summary>
+            <returns>devices list<string></string></returns>
+        </member>
+    </members>
+</doc>

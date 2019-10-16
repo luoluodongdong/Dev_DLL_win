@@ -1,0 +1,13 @@
+C:\Users\Weidong\Desktop\SocketCsharp\MySocket\MySocket\bin\Debug\MySocket.dll
+C:\Users\Weidong\Desktop\SocketCsharp\MySocket\MySocket\bin\Debug\MySocket.pdb
+C:\Users\Weidong\Desktop\SocketCsharp\MySocket\MySocket\obj\Debug\MySocket.csprojAssemblyReference.cache
+C:\Users\Weidong\Desktop\SocketCsharp\MySocket\MySocket\obj\Debug\MySocket.csproj.CoreCompileInputs.cache
+C:\Users\Weidong\Desktop\SocketCsharp\MySocket\MySocket\obj\Debug\MySocket.dll
+C:\Users\Weidong\Desktop\SocketCsharp\MySocket\MySocket\obj\Debug\MySocket.pdb
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\bin\Debug\MySocket.dll
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\bin\Debug\MySocket.pdb
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\obj\Debug\MySocket.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\obj\Debug\MySocket.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\obj\Debug\MySocket.dll
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\obj\Debug\MySocket.pdb
+F:\CsharpCode\usingDLL_test\MySocket\MySocket\bin\Debug\MySocket.xml

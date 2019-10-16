@@ -1,0 +1,12 @@
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\POWER.dll
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\POWER.pdb
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\Ivi.Visa.dll
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\NationalInstruments.Visa.dll
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\Ivi.Visa.xml
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\NationalInstruments.Visa.xml
+F:\CsharpCode\usingDLL_test\POWER\POWER\obj\Debug\POWER.csprojAssemblyReference.cache
+F:\CsharpCode\usingDLL_test\POWER\POWER\obj\Debug\POWER.csproj.CoreCompileInputs.cache
+F:\CsharpCode\usingDLL_test\POWER\POWER\obj\Debug\POWER.csproj.CopyComplete
+F:\CsharpCode\usingDLL_test\POWER\POWER\obj\Debug\POWER.dll
+F:\CsharpCode\usingDLL_test\POWER\POWER\obj\Debug\POWER.pdb
+F:\CsharpCode\usingDLL_test\POWER\POWER\bin\Debug\POWER.xml

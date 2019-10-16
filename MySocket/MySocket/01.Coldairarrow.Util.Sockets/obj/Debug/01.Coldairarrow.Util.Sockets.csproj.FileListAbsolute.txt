@@ -1,0 +1,7 @@
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\bin\Debug\Coldairarrow.Util.Sockets.xml
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\bin\Debug\Coldairarrow.Util.Sockets.dll
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\bin\Debug\Coldairarrow.Util.Sockets.pdb
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\obj\Debug\01.Coldairarrow.Util.Sockets.csprojAssemblyReference.cache
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\obj\Debug\01.Coldairarrow.Util.Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\obj\Debug\Coldairarrow.Util.Sockets.dll
+C:\Users\Weidong\Desktop\SocketCsharp\Sockets-master\Sockets-master\01.Coldairarrow.Util.Sockets\obj\Debug\Coldairarrow.Util.Sockets.pdb
